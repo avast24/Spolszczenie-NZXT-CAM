@@ -1,0 +1,23 @@
+{
+  "profileAutoLaunch": "Automatyczne uruchamianie",
+  "profileSync": "Synchronizacja profilu",
+  "selectedProfiles": "Wybrane profile",
+  "profileSyncTooltip": "Co to jest Profile Sync??",
+  "newProfile": "Dodaj synchronizacjê profilu",
+  "editProfile": "Edit Profile Sync",
+  "profile-Default": "Domyœlny",
+  "autoLaunch-time": "W konkretnym czasie",
+  "autoLaunch-game": "With Game: {{numberOfGames}} Games",
+  "autoLaunch-none": "Brak automatycznego uruchamiania",
+  "timeSettingsTitle": "Skonfiguruj niestandardowy czas uruchamiania",
+  "daySettings": "Ustawienia dnia",
+  "timeSettings": "Ustawienia czasu",
+  "startTime": "Godzina rozpoczêcia",
+  "endTime": "Czas zakoñczenia",
+  "allDay": "All Day",
+  "gameHookingIsDisabled": "Game hooking is currently disabled in general settings.",
+  "defaultProfileAutoLaunchDisclaimer": "Funkcja automatycznego uruchamiania nie jest dostêpna dla profilu Domyœlnego.",
+  "masterProfileEditSelection": "Dodaj / Edytuj profile",
+  "plusOneDay": "+1 Dzieñ",
+  "profileSyncTooltipDescription": "Profile Sync umo¿liwia aktywowanie kilku profili urz¹dzeñ jednoczeœnie. Profile te mog¹ byæ aktywowane po uruchomieniu gry, osi¹gniêciu okreœlonej pory dnia lub rêcznie poprzez wybranie ich za pomoc¹ rozwijanej listy Profile Sync na pasku tytu³u."
+}

@@ -1,0 +1,19 @@
+{
+  "powerOnTime": "Power On Time",
+  "psuTemperature": "Temperature",
+  "33VRail": "3.3V Rail",
+  "5VRail": "5V Rail",
+  "12VRail": "12V Rail",
+  "cpu44Pin": "CPU 4+4 pin",
+  "totalPCIe62Pin": "Total PCIe 6+2 pin",
+  "defaultValue": "Default is {{defaultValue}}",
+  "enableOCP": "Enable multi-rail over-current protection (OCP)",
+  "voltage": "Voltage",
+  "current": "Current",
+  "voltageUnit": "V",
+  "currentUnit": "A",
+  "wattageUnit": "W",
+  "total12VRail": "Total 12V Rail",
+  "total35VRail": "Combined 3.3V & 5V Rails",
+  "noDevices": "No supported power supply was found"
+}

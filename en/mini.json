@@ -1,0 +1,12 @@
+{
+  "cpuTemp": "CPU Temp",
+  "cpuLoad": "CPU Load",
+  "cpuClock": "CPU Clock",
+  "cpuFan": "CPU Fan",
+  "gpuTemp": "GPU Temp",
+  "gpuLoad": "GPU Load",
+  "gpuClock": "GPU Clock",
+  "gpuFan": "GPU Fan",
+  "ramLoad": "RAM Load",
+  "network": "Network"
+}

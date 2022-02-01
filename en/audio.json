@@ -1,0 +1,17 @@
+{
+  "heading": "Audio",
+  "equalizer": "Equalizer",
+  "microphoneNoiseSuppression": "Microphone Noise Suppression",
+  "microphoneVolumeStabilizer": "Microphone Volume Stabilizer",
+  "surroundSound": "Surround Sound",
+  "masterProfileContinueWithoutSaving-heading": "Continue without saving?",
+  "masterProfileContinueWithoutSaving-text": "Hey, we noticed that you made some changes. Did you want to save your progress or continue?",
+  "masterProfileContinueWithoutSaving-confirm": "Save Profile",
+  "saveAsProfile-heading": "Save Audio Profile",
+  "saveAsProfile-nameLabel": "Name",
+  "profile-Default": "Default",
+  "profile-Movies": "Movies",
+  "profile-Games": "Games",
+  "profile-Music": "Music",
+  "noDevices": "No supported audio devices were found"
+}
